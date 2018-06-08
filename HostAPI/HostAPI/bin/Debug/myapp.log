@@ -1,0 +1,6 @@
+2018-06-07 16:52:09,119 [12] INFO HostAPI.InvokingClass - For Console application
+2018-06-07 16:52:09,143 [12] ERROR HostAPI.ConsoleApplicationCall - Executing the console application
+2018-06-07 16:52:09,214 [12] INFO HostAPI.InvokingClass - The application ran sucessfullly
+2018-06-07 22:29:00,517 [14] INFO HostAPI.InvokingClass - For Console application
+2018-06-07 22:29:00,517 [14] INFO HostAPI.ConsoleApplicationCall - Executing the console application
+2018-06-07 22:29:00,564 [14] INFO HostAPI.InvokingClass - The application ran sucessfullly

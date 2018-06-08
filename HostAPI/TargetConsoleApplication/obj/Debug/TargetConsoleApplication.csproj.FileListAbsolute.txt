@@ -1,0 +1,7 @@
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\bin\Debug\TargetConsoleApplication.exe.config
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\bin\Debug\TargetConsoleApplication.exe
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\bin\Debug\TargetConsoleApplication.pdb
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\obj\Debug\TargetConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\obj\Debug\TargetConsoleApplication.exe
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\obj\Debug\TargetConsoleApplication.pdb
+C:\Users\Chetna.Mittal\Desktop\Demo\HostAPI\TargetConsoleApplication\obj\Debug\TargetConsoleApplication.csprojResolveAssemblyReference.cache
